@@ -102,7 +102,6 @@ A curated list of tools, libraries, and resources for working with SVG, vector g
 ## AI Image Generation
 
 - **[VectoSolve Logo Generator](https://vectosolve.com)** — AI-powered SVG logo generation with style presets and brand colors.
-- [Recraft](https://www.recraft.ai/) — AI vector and raster image generation.
 - [Midjourney](https://www.midjourney.com/) — AI image generation (raster).
 - [DALL-E](https://openai.com/dall-e-3) — OpenAI's text-to-image model.
 - [Stable Diffusion](https://stability.ai/) — Open-source image generation model.
