@@ -27,6 +27,7 @@ A curated list of tools, libraries, and resources for working with SVG, vector g
 - [Adobe Illustrator Image Trace](https://www.adobe.com/products/illustrator.html) — Built-in tracing feature in Adobe Illustrator for converting raster to vector.
 - [Inkscape Trace Bitmap](https://inkscape.org/) — Free vector editor with built-in Potrace-based bitmap tracing.
 - [Vectorizer.ai](https://vectorizer.ai/) — AI-powered vectorization service with detailed output.
+- - [Pic2Vector](https://pic2vector.com/) — Free in-browser PNG/JPG to SVG converter using vtracer + WebAssembly. No signup, files never leave your device.
 - [SVGMaker.io](https://svgmaker.io/) — Online SVG converter and editor with drawing tools.
 
 ## SVG Editors
