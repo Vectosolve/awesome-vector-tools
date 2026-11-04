@@ -123,6 +123,7 @@ A curated list of tools, libraries, and resources for working with SVG, vector g
 - **[VectoSolve Cricut Converter](https://vectosolve.com/convert/image-to-cricut-svg)** — Optimized SVG output for Cricut Design Space.
 - [Cricut Design Space](https://design.cricut.com/) — Official Cricut software for cut file design.
 - [Sure Cuts A Lot](https://surecutsalot.com/) — Third-party cutting machine software.
+- [Sticker Printer Hub](https://stickerprinterhub.com/) — Independent comparisons of home sticker printers that print and cut (Liene PixCut S1, Cricut StickerPix, Canon SELPHY), plus a cost-per-sheet calculator and free 4x7 sheet layout tool.
 
 ### Laser Cutting
 - **[VectoSolve Laser Mode](https://vectosolve.com/convert/image-to-laser-svg)** — Generate laser-ready SVGs with optimized paths.
